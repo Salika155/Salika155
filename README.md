@@ -2,7 +2,7 @@
 
 <!--
 **Salika155/Salika155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Codewars](https://github.r2v.ch/codewars?user=Salika155&stroke=%23BB432C)
+
 
 Here are some ideas to get you started:
 
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Codewars](https://github.r2v.ch/codewars?user=Salika155&stroke=%23BB432C)
 -->
 
