@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Salika155/Salika155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 > "Far from a 'null', yet farther still from 'new'.  
 > One has but to face the spiral of 'All', a loop as infinite as it is finite, by which the code compiles—a facade as 'sincere' as it is 'debugged'.  
