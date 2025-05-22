@@ -6,6 +6,8 @@
 > If one is to 'refactor', one must first 'commit'.  
 > Yet the 'merge' must be done with caution, for the 'exceptions' one may not stand to 'catch'."
 
+- ![Codewars](https://github.r2v.ch/codewars?user=Salika155&stroke=%23BB432C)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,4 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Codewars](https://github.r2v.ch/codewars?user=Salika155&stroke=%23BB432C)
+  
+
