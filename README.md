@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=salika155.salika155)
   
 
